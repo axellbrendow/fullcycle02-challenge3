@@ -1,0 +1,14 @@
+.panel {
+    /*background-color: antiquewhite;*/
+    /*flex: 1;*/
+    padding: 40px;
+    max-height: 100vh;
+}
+
+@media (min-width: 768px) {
+    .panel {
+        min-height: 100vh;
+        float: left;
+        width: 33.3333333%;
+    }
+}
