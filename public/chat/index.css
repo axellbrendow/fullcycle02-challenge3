@@ -1,0 +1,33 @@
+.chat {
+    flex: 2;
+    background-color: rgba(0, 0, 0, 0.04);
+    padding: 10px;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.chat-container {
+    flex: 1;
+    max-height: 100%;
+    overflow-y: scroll;
+}
+
+.chat-container .media-body {
+    width: 50%;
+}
+
+.chat-container .message-text {
+    word-wrap: break-word;
+}
+
+@media (min-width: 768px) {
+    .chat {
+        min-height: 100vh;
+        border-top: none;
+        border-left: 1px solid rgba(0, 0, 0, 0.5);
+        float: right;
+        width: 66.6666666%;
+    }
+}
