@@ -1,9 +1,9 @@
 # fullcycle02-challenge3
+Access it [here](https://chat-fullcycle02.herokuapp.com/)
+
 Challenge 3 of the [Full Cycle Marathon](http://maratona.fullcycle.com.br/) 2.0
 
 [Challenges](https://github.com/codeedu/maratona2-desafios)
-
-Access it [here](https://chat-fullcycle02.herokuapp.com/)
 
 ---
 
