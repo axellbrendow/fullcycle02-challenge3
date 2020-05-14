@@ -1,5 +1,7 @@
 # fullcycle02-challenge3
-Access it [here](https://chat-fullcycle02.herokuapp.com/)
+Access the application [here](https://chat-fullcycle02.herokuapp.com/)
+
+Video showing how it works: https://www.loom.com/share/1e0f30de3fd247ba843ee38f7a6453e8
 
 Challenge 3 of the [Full Cycle Marathon](http://maratona.fullcycle.com.br/) 2.0
 
